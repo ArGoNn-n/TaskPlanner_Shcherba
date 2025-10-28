@@ -1,0 +1,14 @@
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.exe
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.deps.json
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.runtimeconfig.json
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.dll
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.pdb
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.AssemblyInfoInputs.cache
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.AssemblyInfo.cs
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.dll
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\refint\ArGoNn-n.TaskPlanner.dll
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.pdb
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.genruntimeconfig.cache
+C:\Projects\TaskPlanner\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner\obj\Debug\net8.0\ref\ArGoNn-n.TaskPlanner.dll
