@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\TaskPlanner\\ArGoNn-n.TaskPlanner\\",
+  "WorkspaceRootPath": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90CD7E88-326D-49CB-A04E-FA443D5AFCA0}|ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj|c:\\projects\\taskplanner\\argonn-n.taskplanner\\argonn-n.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90CD7E88-326D-49CB-A04E-FA443D5AFCA0}|ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90CD7E88-326D-49CB-A04E-FA443D5AFCA0}|ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj|solutionrelative:argonn-n.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05C9F44-032B-4E03-99C0-226DE286F25B}|ArGoNn-n.TaskPlanner.Domain.Logic\\ArGoNn-n.TaskPlanner.Domain.Logic.csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05C9F44-032B-4E03-99C0-226DE286F25B}|ArGoNn-n.TaskPlanner.Domain.Logic\\ArGoNn-n.TaskPlanner.Domain.Logic.csproj|solutionrelative:argonn-n.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05C9F44-032B-4E03-99C0-226DE286F25B}|ArGoNn-n.TaskPlanner.Domain.Logic\\ArGoNn-n.TaskPlanner.Domain.Logic.csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner.domain.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05C9F44-032B-4E03-99C0-226DE286F25B}|ArGoNn-n.TaskPlanner.Domain.Logic\\ArGoNn-n.TaskPlanner.Domain.Logic.csproj|solutionrelative:argonn-n.taskplanner.domain.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|solutionrelative:argonn-n.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|solutionrelative:argonn-n.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner.domain.models\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|solutionrelative:argonn-n.taskplanner.domain.models\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner.domain.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB1E272-F9F8-4E49-9D65-5A71C04B41EB}|ArGoNn-n.TaskPlanner.Domain.Models\\ArGoNn-n.TaskPlanner.Domain.Models..csproj|solutionrelative:argonn-n.taskplanner.domain.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CD7E88-326D-49CB-A04E-FA443D5AFCA0}|ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj|c:\\projects\\taskplanner\\taskplanner_shcherba\\argonn-n.taskplanner\\argonn-n.taskplanner\\argonn-n.taskplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90CD7E88-326D-49CB-A04E-FA443D5AFCA0}|ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj|solutionrelative:argonn-n.taskplanner\\argonn-n.taskplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:46:06.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Logic\\Class1.cs",
+              "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner.Domain.Logic\\Class1.cs",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Logic\\Class1.cs",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner.Domain.Logic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:45:07.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:44:16.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Complexity.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:43:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:42:29.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner.Domain.Models\\Class1.cs",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.Domain.Models\\Class1.cs",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner.Domain.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:39:57.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArGoNn-n.TaskPlanner.csproj",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
+              "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T17:58:43.385Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\Program.cs",
               "RelativeDocumentMoniker": "ArGoNn-n.TaskPlanner\\Program.cs",
-              "ToolTip": "C:\\Projects\\TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\Program.cs",
-              "RelativeToolTip": "ArGoNn-n.TaskPlanner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\Program.cs*",
+              "RelativeToolTip": "ArGoNn-n.TaskPlanner\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA6wCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T17:11:40.854Z",
               "EditorCaption": ""

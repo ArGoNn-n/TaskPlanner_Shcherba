@@ -1,0 +1,12 @@
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..AssemblyInfoInputs.cache
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..AssemblyInfo.cs
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..csproj.CoreCompileInputs.cache
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..sourcelink.json
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..deps.json
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..dll
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..pdb
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..dll
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\ArGoNn-n.TaskPlanner.Domain.Models..dll
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..pdb
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\ArGoNn-n.TaskPlanner.Domain.Models..dll

@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ArGoNn-n.TaskPlanner.Domain.Logic\ArGoNn-n.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\ArGoNn-n.TaskPlanner.Domain.Models\ArGoNn-n.TaskPlanner.Domain.Models..csproj" />
+  </ItemGroup>
+
 </Project>

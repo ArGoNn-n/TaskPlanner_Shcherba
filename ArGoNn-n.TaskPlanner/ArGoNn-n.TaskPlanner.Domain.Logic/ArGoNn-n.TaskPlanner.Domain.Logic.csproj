@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ArGoNn_n.TaskPlanner.Domain.Logic</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArGoNn-n.TaskPlanner.Domain.Models\ArGoNn-n.TaskPlanner.Domain.Models..csproj" />
+  </ItemGroup>
+
+</Project>

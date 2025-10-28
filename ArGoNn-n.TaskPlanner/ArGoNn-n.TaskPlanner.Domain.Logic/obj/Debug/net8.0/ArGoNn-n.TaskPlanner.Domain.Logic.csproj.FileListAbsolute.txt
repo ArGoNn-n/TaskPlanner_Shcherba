@@ -1,0 +1,16 @@
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.sourcelink.json
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.deps.json
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.dll
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.pdb
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..dll
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\bin\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Models..pdb
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.C6AFF965.Up2Date
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.dll
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\ArGoNn-n.TaskPlanner.Domain.Logic.dll
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ArGoNn-n.TaskPlanner.Domain.Logic.pdb
+C:\Projects\TaskPlanner\TaskPlanner_Shcherba\ArGoNn-n.TaskPlanner\ArGoNn-n.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\ArGoNn-n.TaskPlanner.Domain.Logic.dll
