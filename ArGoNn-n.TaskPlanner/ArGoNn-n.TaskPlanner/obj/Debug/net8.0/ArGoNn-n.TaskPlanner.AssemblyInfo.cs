@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArGoNn-n.TaskPlanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c24234ff35e4dece4cae0d725539c5c99bdaffca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArGoNn-n.TaskPlanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArGoNn-n.TaskPlanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

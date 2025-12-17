@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
+      "projectUniqueName": "C:\\Users\\argon\\Desktop\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
       "projectName": "ArGoNn-n.TaskPlanner",
-      "projectPath": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
+      "projectPath": "C:\\Users\\argon\\Desktop\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner.csproj",
       "packagesPath": "C:\\Users\\argon\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\TaskPlanner\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\obj\\",
+      "outputPath": "C:\\Users\\argon\\Desktop\\TaskPlanner_Shcherba\\ArGoNn-n.TaskPlanner\\ArGoNn-n.TaskPlanner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
